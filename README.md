@@ -40,3 +40,7 @@ To run the GoogleTest examples, please run the following command.
 ```bash
 $ ctest --test-dir build/ --verbose
 ```
+
+## References
+
+- [GoogleTest Using CMake](https://leimao.github.io/blog/GoogleTest-CMake/)
